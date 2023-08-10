@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Vincent Chan, a web developer specializing in creating user-friendly websites. With a passion for design and coding, I strive to bring digital ideas to life.👋
 
 <!--
 **hkvincent/hkvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
