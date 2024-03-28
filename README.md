@@ -91,3 +91,4 @@ HTML                     2 repos             █░░░░░░░░░░�
  Last Updated on 27/03/2024 18:35:32 UTC
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkvincent&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkvincent&layout=compact)
