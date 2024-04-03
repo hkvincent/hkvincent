@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,19 +54,19 @@ Sunday                   152 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     9 hrs 48 mins       ███████████████░░░░░░░░░░   58.43 % 
-TypeScript               4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-XML                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Java                     8 hrs 17 mins       ██████████████░░░░░░░░░░░   57.18 % 
+TypeScript               4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+XML                      1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Dart                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-IntelliJ                 11 hrs 37 mins      █████████████████░░░░░░░░   69.29 % 
-VS Code                  5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+IntelliJ                 9 hrs 50 mins       █████████████████░░░░░░░░   67.84 % 
+VS Code                  4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Android Studio           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-Windows                  16 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +86,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hkvincent/hkvincent/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2024 18:36:02 UTC
+ Last Updated on 03/04/2024 18:36:00 UTC
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkvincent&rank_icon=github&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkvincent&layout=compact)
