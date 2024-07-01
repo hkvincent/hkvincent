@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C279%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 222.6 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -56,20 +54,20 @@ Sunday                   176 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
-Java                     3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Dart                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-XML                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JavaScript               7 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.02 % 
+Java                     3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Python                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Dart                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+XML                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 21 mins       ███████████████░░░░░░░░░░   58.34 % 
-IntelliJ IDEA            3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Android Studio           2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-IntelliJ                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+VS Code                  11 hrs 54 mins      ████████████████░░░░░░░░░   64.05 % 
+IntelliJ IDEA            3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Android Studio           2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+IntelliJ                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Windows                  16 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +87,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hkvincent/hkvincent/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 18:37:09 UTC
+ Last Updated on 01/07/2024 18:37:18 UTC
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkvincent&rank_icon=github&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkvincent&layout=compact)
