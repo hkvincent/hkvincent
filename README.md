@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 > 📦 224.0 kB Used in GitHub's Storage 
  > 
-> 🏆 423 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 103 Public Repositories 
@@ -89,7 +87,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hkvincent/hkvincent/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 18:37:11 UTC
+ Last Updated on 21/07/2024 18:36:24 UTC
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkvincent&rank_icon=github&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkvincent&layout=compact)
