@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 224.0 kB Used in GitHub's Storage 
- > 
-> 🏆 423 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -29,6 +29,40 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+🌆 Daytime                137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+🌃 Evening                579 commits         ████████████████░░░░░░░░░   64.77 % 
+🌙 Night                  92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Wednesday                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Thursday                 137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Friday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Saturday                 180 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Sunday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+IntelliJ                 23 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -46,7 +80,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hkvincent/hkvincent/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:39:12 UTC
+ Last Updated on 25/07/2024 18:36:54 UTC
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkvincent&rank_icon=github&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkvincent&layout=compact)
